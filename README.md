@@ -6,7 +6,7 @@ Founder & lead developer of **Podium**, a production SaaS payments platform serv
 
 ---
 
-## 🏆 Featured — Podium · SaaS Voting & Payments Platform
+## 🏆 Featured — Podium Vote · SaaS Voting & Payments Platform
 
 A production SaaS I **designed, built, and deployed from scratch**. It runs live voting and
 ticketing for paying clients, moving real money through Stripe Connect.
